@@ -7,4 +7,4 @@ This is a python program to rename files in a given folder path.
 
 ## ✨ Demonstration
 
-![Demonstration](https://media.discordapp.net/attachments/942795893944504320/967645958370394113/4VveN4H4ta.gif?width=1179&height=663)
+<img src="https://media.discordapp.net/attachments/942795893944504320/967645958370394113/4VveN4H4ta.gif" width="1179" height="663">
