@@ -8,4 +8,4 @@
 
 ## ✨ Demonstration
 
-<img src="https://imgur.com/a/gnS10ei">
+<img src="https://i.imgur.com/EwcH8Qe.gif">
